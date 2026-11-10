@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://siriustelefonix.github.io/sitemap-index.xml
